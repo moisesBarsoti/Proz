@@ -1,6 +1,6 @@
 <h1 align="center"> UML do Livro </h1>
 
-![image](https://github.com/moisesBarsoti/Proz/assets/146322015/bb734583-c2a1-4075-903c-e26bd3832cc9)
+<img src="https://github.com/moisesBarsoti/Proz/assets/146322015/bb734583-c2a1-4075-903c-e26bd3832cc9">
 
 
 
